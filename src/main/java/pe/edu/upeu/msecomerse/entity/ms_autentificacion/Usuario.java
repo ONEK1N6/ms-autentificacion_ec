@@ -1,4 +1,4 @@
-package pe.edu.upeu.msecomerse.entity;
+package pe.edu.upeu.msecomerse.entity.ms_autentificacion;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
